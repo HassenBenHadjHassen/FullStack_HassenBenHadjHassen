@@ -1,10 +1,62 @@
 [
-  { "id": 1, "name": "Smartphone", "price": 699, "category": "Electronics" },
-  { "id": 2, "name": "Laptop", "price": 999, "category": "Electronics" },
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": 699,
+    "category": "Electronics",
+    "model": "XPro Max 2024",
+    "thumbnail": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.large.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 5
+    }
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 999,
+    "category": "Electronics",
+    "model": "UltraBook Pro 15",
+    "thumbnail": "https://m.media-amazon.com/images/I/71yKxEaoVqL.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 5
+    }
+  },
   {
     "id": 3,
     "name": "Coffee Maker",
     "price": 49,
-    "category": "Home Appliances"
+    "category": "Home Appliances",
+    "model": "BrewMaster 500",
+    "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/xif0q/coffee-maker/n/j/j/63153711-regalia-espresso-wonderchef-original-imah2fyed5hnvmep.jpeg",
+    "rating": {
+      "rate": 4,
+      "count": 5
+    }
+  },
+  {
+    "id": 4,
+    "name": "T-shirt",
+    "price": 39,
+    "category": "Apparel",
+    "model": "ComfortFit XL",
+    "thumbnail": "https://celio.tn/media/catalog/product/1/5/158805-700-DEBASEV_OPTICALWHITE-3_2.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 5
+    }
+  },
+  {
+    "id": 5,
+    "name": "Doctor Who Second Edition",
+    "price": 69,
+    "category": "Books",
+    "model": "Second Edition Hardcover",
+    "thumbnail": "https://cubicle7games.com/media/catalog/product/cache/eaa46c59236b94030e589ee175b5bd44/d/w/dw_60yoa_book1_mockup_230815_1_.png",
+    "rating": {
+      "rate": 4,
+      "count": 5
+    }
   }
 ]

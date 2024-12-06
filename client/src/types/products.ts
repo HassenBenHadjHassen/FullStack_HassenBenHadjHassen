@@ -10,3 +10,9 @@ export interface Product {
     count: number;
   };
 }
+
+export interface ApiResponse {
+  success: number;
+  message?: string;
+  data?: Product | Product[];
+}
