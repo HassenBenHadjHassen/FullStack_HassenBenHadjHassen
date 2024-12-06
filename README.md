@@ -1,4 +1,3 @@
-
 # 3-Hour Coding Challenge
 
 A FullStack Coding Challenge
@@ -15,4 +14,5 @@ To run the frontend first clone the repository, then in the terminal cd to clien
 
 # Screenshots
 
-
+![ScreenShot1](https://raw.github.com/HassenBenHadjHassen/FullStack_HassenBenHadjHassen/master/screenshots/Screenshot1.png?raw=true "ScreenShot1")
+![ScreenShot2](https://raw.github.com/HassenBenHadjHassen/FullStack_HassenBenHadjHassen/master/screenshots/Screenshot2.png?raw=true "ScreenShot2")
